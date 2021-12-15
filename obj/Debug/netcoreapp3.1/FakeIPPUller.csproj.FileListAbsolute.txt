@@ -1,0 +1,14 @@
+C:\Users\De\source\repos\FakeIPPUller\bin\Debug\netcoreapp3.1\FakeIPPUller.exe
+C:\Users\De\source\repos\FakeIPPUller\bin\Debug\netcoreapp3.1\FakeIPPUller.deps.json
+C:\Users\De\source\repos\FakeIPPUller\bin\Debug\netcoreapp3.1\FakeIPPUller.runtimeconfig.json
+C:\Users\De\source\repos\FakeIPPUller\bin\Debug\netcoreapp3.1\FakeIPPUller.runtimeconfig.dev.json
+C:\Users\De\source\repos\FakeIPPUller\bin\Debug\netcoreapp3.1\FakeIPPUller.dll
+C:\Users\De\source\repos\FakeIPPUller\bin\Debug\netcoreapp3.1\FakeIPPUller.pdb
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.csproj.AssemblyReference.cache
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.AssemblyInfoInputs.cache
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.AssemblyInfo.cs
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.csproj.CoreCompileInputs.cache
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.dll
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.pdb
+C:\Users\De\source\repos\FakeIPPUller\obj\Debug\netcoreapp3.1\FakeIPPUller.genruntimeconfig.cache
